@@ -1,0 +1,7 @@
+This scripts was made based on http://github.com/tumf/UnitHosting
+
+h2. Usage
+
+h3. for LAMP wish RDS
+
+@bash < <(curl https://github.com/k1LoW/amazonlinux/raw/master/lamp-rds-simple.sh)@
