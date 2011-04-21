@@ -18,6 +18,7 @@ NameVirtualHost *:443
 EOF
 
 # install APC
+yum -y install pcre-devel
 yes yes|pecl install apc
 echo "extension=apc.so" > /etc/php.d/apc.ini
 
