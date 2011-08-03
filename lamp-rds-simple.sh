@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ -z $script_url ];then
-    export script_url="https://github.com/k1LoW/amazonlinux/raw/master/"
+    export script_url="https://github.com/k1LoW/amazonlinux/master/"
 fi
 
 #common
